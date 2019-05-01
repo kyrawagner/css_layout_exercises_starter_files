@@ -1,0 +1,35 @@
+main {
+	padding: 30px;
+	font-size: 0;
+	border-style: solid;
+	border-color: black;
+	border-size: 1px;
+}
+.inner {
+	height: 200px;
+	width: 50%;
+	display: inline-block;
+	font-size: 0;
+}
+.inner-one {
+	background-color: green;
+}
+.inner-two {
+	background-color: blue;
+}
+
+.inner2 {
+	height: 300px;
+	width: 33,33%;
+	display: inline block;
+	font-size: 0;
+}
+.inner-one1 {
+	background-color: gray;
+}
+.inner-two2 {
+	background-color: black;
+}
+.inner-three3 {
+	background-color: yellow;
+}
